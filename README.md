@@ -5,7 +5,7 @@ Take words from a file (`TXT`, `EPUB`), find translations and convert them to de
 ## Why
 
 1. Practice `Rust`
-2. Sometime I read a book and find words that I don't know the meaning so I want to find the translation of those words.
+2. Sometimes I read a book and encounter words that I don't know the meaning so I want to find a collection of translations of those words in each book.
 
 ## Todo
 
